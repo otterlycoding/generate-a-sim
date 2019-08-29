@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "otterlycoding/static/css/main.34de6062.chunk.css",
-    "main.js": "otterlycoding/static/js/main.1a71a0db.chunk.js",
-    "main.js.map": "otterlycoding/static/js/main.1a71a0db.chunk.js.map",
-    "runtime~main.js": "otterlycoding/static/js/runtime~main.aaa21b93.js",
-    "runtime~main.js.map": "otterlycoding/static/js/runtime~main.aaa21b93.js.map",
-    "static/js/2.1ca181ad.chunk.js": "otterlycoding/static/js/2.1ca181ad.chunk.js",
-    "static/js/2.1ca181ad.chunk.js.map": "otterlycoding/static/js/2.1ca181ad.chunk.js.map",
-    "index.html": "otterlycoding/index.html",
-    "precache-manifest.c2beeebada5139d11aeb4c3e84c4e7f5.js": "otterlycoding/precache-manifest.c2beeebada5139d11aeb4c3e84c4e7f5.js",
-    "service-worker.js": "otterlycoding/service-worker.js",
-    "static/css/main.34de6062.chunk.css.map": "otterlycoding/static/css/main.34de6062.chunk.css.map"
+    "main.css": "./static/css/main.34de6062.chunk.css",
+    "main.js": "./static/js/main.e41a9d70.chunk.js",
+    "main.js.map": "./static/js/main.e41a9d70.chunk.js.map",
+    "runtime~main.js": "./static/js/runtime~main.d0784117.js",
+    "runtime~main.js.map": "./static/js/runtime~main.d0784117.js.map",
+    "static/js/2.1ca181ad.chunk.js": "./static/js/2.1ca181ad.chunk.js",
+    "static/js/2.1ca181ad.chunk.js.map": "./static/js/2.1ca181ad.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.f89570e7138cb9ebb4d56fa58bbdba6b.js": "./precache-manifest.f89570e7138cb9ebb4d56fa58bbdba6b.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "./static/css/main.34de6062.chunk.css.map"
   }
 }
